@@ -169,6 +169,15 @@ table.button {
   table.body .tab-desc > tbody > tr > td{
     padding: 15px!important;
   }
+
+  table.button{
+    table {
+      td {
+        line-height: 0.5!important;
+        padding: 15px 20px 15px 20px!important;
+      }
+    }
+  }
   .head_h3{
     font-size: 24px!important;
   }
@@ -189,8 +198,6 @@ table.button {
     display: block!important;
     margin: auto!important;
   }
-
-
 
 }
 
