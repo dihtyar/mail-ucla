@@ -702,7 +702,7 @@ span.text-center {
   width: 100%;
   text-align: center; }
 
-@media only screen and (max-width: 1296px) {
+@media only screen and (max-width: 736px) {
   .small-float-center {
     margin: 0 auto !important;
     float: none !important;
@@ -746,7 +746,7 @@ table.body table.container .hide-for-large {
   font-size: 0;
   width: 0px;
   line-height: 0; }
-  @media only screen and (max-width: 1296px) {
+  @media only screen and (max-width: 736px) {
     table.body table.container .hide-for-large {
       display: block !important;
       width: auto !important;
@@ -755,13 +755,13 @@ table.body table.container .hide-for-large {
 table.body table.container .hide-for-large * {
   mso-hide: all; }
 
-@media only screen and (max-width: 1296px) {
+@media only screen and (max-width: 736px) {
   table.body table.container .row.hide-for-large,
   table.body table.container .row.hide-for-large {
     display: table !important;
     width: 100% !important; } }
 
-@media only screen and (max-width: 1296px) {
+@media only screen and (max-width: 736px) {
   table.body table.container .show-for-large {
     display: none !important;
     width: 0;
@@ -1109,7 +1109,7 @@ table.menu.text-center a {
 body.outlook p {
   display: inline !important; }
 
-@media only screen and (max-width: 1296px) {
+@media only screen and (max-width: 736px) {
   table.body img {
     width: auto !important;
     height: auto !important; }
